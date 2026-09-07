@@ -5,7 +5,7 @@ public class FindStringUsingBinarySearch {
 		String str[]= {"Apple","Bat","Cat","Dog","Egg"};
 		int left=0;
 		int right=str.length-1;
-		String target="Dog";
+		String target="Cat";
 		while(left<=right) {
 			int mid=(left+right)/2;
 			if(str[mid].equals(target)) {
