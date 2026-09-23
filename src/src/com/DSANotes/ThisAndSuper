@@ -1,0 +1,14 @@
+This:
+
+The this keyword is a reference variable that refers to the current object of the class.
+
+this is a keyword to represent the current class properties.
+ variables , methods , constructors and objects.
+
+super:
+super is a keyword it is used to represent the parent class properties. 
+variables , methods,constructors.
+
+	Stack memory            Heap memory
+	1.constructor			1.object
+	2.name= kalpana			2.name=null

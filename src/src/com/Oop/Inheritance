@@ -1,0 +1,14 @@
+Acquiring properties  from one class to another class
+parent class to child class
+super class to sub class
+base class to derived class
+				extends--implements
+Inheritance means one class can use the variables and methods of another class without writing them again.
+1.single 1p 1c
+2.multilevel
+3.hirarichal
+4.hybrid
+5.multiple
+
+class Logical entity
+object physical entity

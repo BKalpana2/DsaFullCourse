@@ -1,0 +1,11 @@
+Map is a 2d collections interface
+where it can allow
+key value
+value key
+key object
+object key
+key should be unique always
+value may be duplicate.
+
+HashMap ----->not follows the order.
+linkedhashmap ---->follows the order.
